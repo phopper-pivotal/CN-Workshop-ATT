@@ -191,7 +191,7 @@ Next we'll import some data.
 
 == Importing Data
 
-. Add this https://raw.githubusercontent.com/Pivotal-Field-Engineering/CN-Workshop-TM/master/labs/lab02/import.sql[import.sql file] found in *CN-Workshop-TM/labs/lab02/* to +src/main/resources+. This is a rather large dataset containing all of the postal codes in the United States and its territories. This file will automatically be picked up by Hibernate and imported into the in-memory database.
+. Add this https://raw.githubusercontent.com/Pivotal-Field-Engineering/CN-Workshop-ATT/master/labs/lab02/import.sql[import.sql file] found in *CN-Workshop-ATT/labs/lab02/* to +src/main/resources+. This is a rather large dataset containing all of the postal codes in the United States and its territories. This file will automatically be picked up by Hibernate and imported into the in-memory database.
 
 . Restart the application.
 +

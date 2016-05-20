@@ -154,13 +154,13 @@ Artifact:: +cloud-native-spring-ui+
 
 . Click the _Generate Project_ button. Your browser will download a zip file.
 
-. Copy then unpack the downloaded zip file to *CN-Workshop-TM/labs/lab05/cloud-native-spring-ui*
+. Copy then unpack the downloaded zip file to *CN-Workshop-ATT/labs/lab05/cloud-native-spring-ui*
 +
 Your directory structure should now look like:
 +
 [source, bash]
 ---------------------------------------------------------------------
-CN-Workshop-TM:
+CN-Workshop-ATT:
 ├── labs
 │   ├── lab01
 │   │   ├── cloud-native-spring
