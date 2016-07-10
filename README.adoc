@@ -32,6 +32,6 @@ This one day hands-on classroom style session will provide developers with hands
   * Lab 5: link:labs/lab05/lab05.adoc[_Security & Configuration Frameworks in AT&T_]
 4:00 - 5:00 PM::
   * Session 9: link:presentations/Session_9_Spring_Security_OAuth.pptx[_Spring Security & OAuth_]
-  * Lab 6: link:labs/lab06/lab06.adoc[_Creating an OAuth Server_]
+  * Lab 6: link:labs/lab06/lab06.adoc[_Creating an OAuth2 Authorization Server_]
   * Lab 7: link:labs/lab07/lab07.adoc[_Securing a Resource Server with Spring Cloud Security_]
 5:15 - 5:30:: Questions
